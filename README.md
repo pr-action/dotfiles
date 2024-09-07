@@ -1,15 +1,15 @@
-# CodeRabbit Dotfiles
+# PR-Action Dotfiles
 
-![CodeRabbit Neovim](./sw/assets/vim.png)
+![PR-Action Neovim](./sw/assets/vim.png)
 
 ## Introduction
 
-Welcome to CodeRabbit optimized development environment that is well integrated
+Welcome to PR-Action optimized development environment that is well integrated
 with our stack.
 
 ## Setup
 
-We use [chezmoi](https://www.chezmoi.io) to manage CodeRabbit dotfiles in your
+We use [chezmoi](https://www.chezmoi.io) to manage PR-Action dotfiles in your
 home directory.
 
 ### Automatic Setup
@@ -44,7 +44,7 @@ Provide username and email address by creating `.gitconfig_local` e.g.
 ```
 [user]
   name = Harjot Gill
-  email = harjot@coderabbit.ai
+  email = harjot@khulnasoft.com
 [github]
    user = <github user name>
    token = <personal access token>
@@ -58,7 +58,7 @@ for GitHub to use HTTP API. Also, it's useful to add this token to your
 
 ### GitHub org cloning script
 
-To clone CodeRabbit, run: `gh_clone_all.sh pr-action $HOME/work`. This step
+To clone PR-Action, run: `gh_clone_all.sh pr-action $HOME/work`. This step
 is performed automatically on installation.
 
 ### Git pull all repos script
