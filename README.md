@@ -41,7 +41,7 @@ Provide username and email address by creating `.gitconfig_local` e.g.
 
 ```
 [user]
-  name = Harjot Gill
+  name = KhulnaSoft DevOps
   email = harjot@khulnasoft.com
 [github]
    user = <github user name>
