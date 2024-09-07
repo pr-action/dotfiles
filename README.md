@@ -1,7 +1,5 @@
 # PR-Action Dotfiles
 
-![PR-Action Neovim](./sw/assets/vim.png)
-
 ## Introduction
 
 Welcome to PR-Action optimized development environment that is well integrated
