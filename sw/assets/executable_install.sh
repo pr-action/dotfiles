@@ -60,7 +60,7 @@ fi
 
 echo "Setting up .gitconfig_local"
 # ask the user to input email address
-email=$(gum input --placeholder "Please enter your CodeRabbit email address")
+email=$(gum input --placeholder "Please enter your PR-Action email address")
 
 # ask the user to input their name
 name=$(gum input --placeholder "Please enter your name")
